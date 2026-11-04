@@ -1,0 +1,9 @@
+{
+  "name": "jsslug",
+  "version": "1.0.0",
+  "description": "Slugify with unicode normalisation.",
+  "type": "module",
+  "main": "index.js",
+  "scripts": { "test": "node --test" },
+  "license": "MIT"
+}
